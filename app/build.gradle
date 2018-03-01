@@ -30,7 +30,7 @@ dependencies {
     repositories {
         maven {
             url 'C:\\Users\\Spec\\AndroidStudioProjects\\GestureAuth\\app\\libs\\myo-android-sdk-0.10.0\\myo-android-sdk-0.10.0\\myorepository'
-            //would ideally change this to relative URL, will research later
+            //TODO: Replace me!!!
 
         }
     }
