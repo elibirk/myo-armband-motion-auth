@@ -1,4 +1,4 @@
-# myo-armband-android-motion-authentication
+# myo-armband-motion-auth
 A simple Android application to test motion authentication with the Myo armband.
 
 This application is a simple test to show that motions from the Myo armband could theoretically be used for authentication purposes. A user may enter the username and password combination (currently hard-coded since this is only an example) or connect with a Myo armband to perform a gesture pattern (again, hardcoded). Some unnecessary code is included to show how this application would expand if used more seriously.
